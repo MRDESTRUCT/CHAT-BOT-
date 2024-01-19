@@ -1,0 +1,10 @@
+[
+    {"text": "Amo este sandwich.", "label": "pos"},
+    {"text": "Es un lugar adorable!", "label": "pos"},
+    {"text": "No me gusta este restaurant","label":"neg"},
+    {"text": "No vuelvo a regresar a este lugar :(","label":"neg"},
+    {"text": "Me encantó <3 la comida","label":"pos"},
+    {"text": "Todo muy mal :(","label":"neg"}
+    
+
+]
